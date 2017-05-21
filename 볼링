@@ -1,0 +1,4 @@
+#include<stdio.h>
+int main(void){
+  int grade[10];
+  int i
